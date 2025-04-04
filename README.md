@@ -1,2 +1,2 @@
 # portfolio-website
-my portfolio using HTML5 and CSS3 with bootstrap framework
+my portfolio using HTML5, CSS3 with bootstrap framework and JS
